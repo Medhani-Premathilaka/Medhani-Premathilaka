@@ -1,4 +1,8 @@
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <div style="text-align: center; border: 2px solid #ddd; padding: 20px; border-radius: 10px; background: #f9f9f9;">
+    <img align="center" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
+  </div>
+</div>
 
 #  <h1>Hi there!👋 I'm Medhani...😊</h1>
 
