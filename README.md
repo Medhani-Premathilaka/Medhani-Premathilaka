@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I'm currently studying
+Hi there!👋 I'm Medhani...😊
 
 ## 🌐 Socials:
 
