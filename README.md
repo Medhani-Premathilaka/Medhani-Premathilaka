@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246"/>
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
 
 # 💫 About Me:
 
