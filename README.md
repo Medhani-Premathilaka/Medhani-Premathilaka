@@ -1,3 +1,5 @@
+<div align="center">
+
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <div style="text-align: center; border: 20px solid yellow; padding: 100px; border-radius: 10px; background: #f9f9f9;">
     <img align="center" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
@@ -46,3 +48,4 @@
   <source media="(prefers-color-cd: light)" srcset="https://raw.githubusercontent.com/Medhani-Premathilaka/Medhani-Premathilaka/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Medhani-Premathilaka/Medhani-Premathilaka/output/github-snake.svg" />
 </picture>
+</div>
