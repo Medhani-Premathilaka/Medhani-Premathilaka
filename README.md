@@ -3,7 +3,7 @@
 #  <h1>Hi there!👋 I'm Medhani...😊</h1>
 
 
-<h2>I'm Currently a Computer Science Undergraduate at the University of Ruhuna</h2>
+<h6>I'm Currently a Computer Science Undergraduate at the University of Ruhuna</h6>
 
 ## 🌐 Socials:
 
