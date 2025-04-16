@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="center" alt="Coding" width="400" src="https://tenor.com/view/coding-girl-gif-2332171326726785246"/>
 
 # 💫 About Me:
 
