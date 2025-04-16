@@ -1,8 +1,9 @@
-<img align="center" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
 
-# 💫 About Me:
+#  <h1>Hi there!👋 I'm Medhani...😊</h1>
 
-Hi there!👋 I'm Medhani...😊
+
+<h2>I'm Currently a Computer Science Undergraduate at the University of Ruhuna</h2>
 
 ## 🌐 Socials:
 
