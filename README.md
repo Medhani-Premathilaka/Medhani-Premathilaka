@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
+<img align="center" alt="Coding" width="400" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"/>
 
 #  <h1>Hi there!👋 I'm Medhani...😊</h1>
 
