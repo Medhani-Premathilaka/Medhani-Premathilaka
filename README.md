@@ -1,4 +1,5 @@
 <div align="center">
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/yourusername&query=%24.followers&label=Profile%20Views&color=green)
 
 <div style="display: flex; justify-content: center; margin: 20px 0;">
   <div style="text-align: center; border: 20px solid yellow; padding: 100px; border-radius: 10px; background: #f9f9f9;">
