@@ -11,7 +11,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Medhani-Premathilaka&color=red)
 
 
-<h3>I'm Currently a Computer Science Undergraduate at the University of Ruhuna<br/> I'm currently learning Springboot 🍃</h3>
+<h3>I'm Currently a Computer Science Undergraduate at the University of Ruhuna<br/> I'm currently learning C# with Design Patterns</h3>
 
 ## 🌐 Socials:
 
